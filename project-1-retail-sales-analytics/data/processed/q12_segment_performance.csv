@@ -1,0 +1,4 @@
+segment,customers,revenue,revenue_per_customer,margin_pct
+Consumer,787,156404418.0,198735.0,8.6
+Corporate,441,86954158.0,197175.0,7.8
+Home Office,270,54544310.0,202016.0,8.2

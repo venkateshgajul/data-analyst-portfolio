@@ -1,0 +1,21 @@
+feature,odds_ratio,coef,note
+internet_service_Fiber optic,2.362,0.86,vs reference category
+monthly_charges,1.549,0.438,per +1 standard deviation
+payment_method_Electronic check,1.515,0.416,vs reference category
+senior_citizen_1,1.515,0.415,vs reference category
+ticket_count,1.284,0.25,per +1 standard deviation
+paperless_billing_Yes,1.241,0.216,vs reference category
+partner_Yes,1.034,0.033,vs reference category
+streaming_tv_Yes,1.014,0.014,vs reference category
+dependents_Yes,0.99,-0.01,vs reference category
+payment_method_Credit card,0.922,-0.081,vs reference category
+tech_support_No internet service,0.847,-0.167,vs reference category
+online_security_No internet service,0.847,-0.167,vs reference category
+internet_service_No internet,0.847,-0.167,vs reference category
+streaming_tv_No internet service,0.847,-0.167,vs reference category
+payment_method_Mailed check,0.777,-0.252,vs reference category
+online_security_Yes,0.558,-0.583,vs reference category
+tech_support_Yes,0.557,-0.585,vs reference category
+tenure_months,0.488,-0.718,per +1 standard deviation
+contract_One year,0.222,-1.506,vs reference category
+contract_Two year,0.061,-2.797,vs reference category

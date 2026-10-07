@@ -1,0 +1,15 @@
+feature,test,statistic,p_value,effect_size,significant_5pct
+tenure_months,mann-whitney,1739415.5,0.0,0.4725,True
+contract,chi-square,905.8968,0.0,0.3886,True
+monthly_charges,mann-whitney,4517955.5,0.0,0.3702,True
+tenure_band,chi-square,698.3537,0.0,0.3412,True
+internet_service,chi-square,541.6196,0.0,0.3004,True
+tech_support,chi-square,290.473,0.0,0.22,True
+online_security,chi-square,289.6819,0.0,0.2197,True
+ticket_count,mann-whitney,3969008.5,0.0,0.2038,True
+payment_method,chi-square,37.9293,0.0,0.0795,True
+senior_citizen,chi-square,19.3159,0.0,0.0567,True
+paperless_billing,chi-square,11.5654,0.0007,0.0439,True
+gender,chi-square,0.9232,0.3366,0.0124,False
+dependents,chi-square,0.4564,0.4993,0.0087,False
+partner,chi-square,0.2673,0.6051,0.0067,False

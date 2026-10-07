@@ -1,0 +1,15 @@
+{
+  "name": "Analyst Blue",
+  "dataColors": ["#1F4E79", "#E07B39", "#2E86AB", "#9AA5B1", "#C0392B", "#3A9D6E", "#7D5BA6", "#F2C14E"],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1F4E79",
+  "good": "#3A9D6E",
+  "neutral": "#F2C14E",
+  "bad": "#C0392B",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1F4E79"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#252423"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1F4E79"}
+  }
+}

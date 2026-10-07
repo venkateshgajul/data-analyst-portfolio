@@ -1,0 +1,9 @@
+Customers: 6,000 | churn rate 24.1% | monthly revenue lost to churn $116,500
+Strongest associations with churn (effect size): tenure_months (0.47), contract (0.39), monthly_charges (0.37), tenure_band (0.34)
+Not significant at 5%: gender, dependents, partner
+Logistic regression: test ROC-AUC 0.868 (5-fold CV on train 0.864) vs gradient boosting 0.862
+At threshold 0.31: precision 0.56, recall 0.75, F1 0.64 (base churn rate 0.24)
+Biggest risk-raisers: internet_service_Fiber optic (OR 2.36), monthly_charges (OR 1.55), payment_method_Electronic check (OR 1.52) | biggest protectors: contract_Two year (OR 0.06), contract_One year (OR 0.22), tenure_months (OR 0.49)
+Gains: contacting the top 20% riskiest customers captures 54% of churners (random targeting would capture 20%) -> lift 2.7x
+Risk tiers (actual churn rate): High 65%, Medium 29%, Low 5%
+Active customers: 4,551; High-tier active customers: 417 holding $37,160/month

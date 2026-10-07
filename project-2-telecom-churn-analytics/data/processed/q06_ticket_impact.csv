@@ -1,0 +1,5 @@
+ticket_bucket,customers,churn_rate_pct,avg_satisfaction
+0 tickets,1950,17.0,
+1 ticket,2038,22.6,3.31
+2 tickets,1246,29.2,3.3
+3+ tickets,766,38.1,3.21

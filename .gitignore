@@ -1,0 +1,10 @@
+# local databases are rebuilt by python/run_pipeline.py
+*.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+~$*.xlsx

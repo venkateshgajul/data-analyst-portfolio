@@ -1,0 +1,4 @@
+ship_mode,orders,avg_order_value,margin_pct
+Standard,5528,32983.0,8.4
+Express,2577,32766.0,7.9
+Same Day,895,34789.0,8.6

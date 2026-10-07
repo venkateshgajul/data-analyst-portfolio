@@ -1,0 +1,9 @@
+Forecast hold-out MAPE (last 6 months): 13.5%
+Forecast Q1-2025 revenue: 2025-01: 8.9M, 2025-02: 9.0M, 2025-03: 11.3M
+Spearman correlation discount vs line margin: -0.67 (p=0)
+Loss-making lines: 15.9% of lines, total loss Rs 9.2M; 99% of them carry a >10% discount
+What-if (cap discount at 10%, same volumes): profit Rs 24.7M -> 39.1M (+59%)  [assumes no volume loss - upper bound]
+Top city: Mumbai = 24% of revenue
+RFM 'At Risk' segment: 272 customers holding Rs 68.3M historical revenue
+Top 20% of customers generate 43% of revenue (not a strict 80/20 - revenue is broad-based)
+Q4 share of annual revenue: 35%

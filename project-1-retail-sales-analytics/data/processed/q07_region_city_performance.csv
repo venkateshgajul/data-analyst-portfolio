@@ -1,0 +1,11 @@
+region,city,revenue,profit,margin_pct,customers,revenue_rank
+West,Mumbai,72923868.0,5907883.0,8.1,373,1
+South,Bengaluru,33437213.0,2607372.0,7.8,169,2
+West,Pune,30776288.0,2560382.0,8.3,158,3
+North,Delhi,27382742.0,2170708.0,7.9,140,4
+West,Nashik,25472575.0,2147745.0,8.4,130,5
+South,Hyderabad,24806702.0,2126385.0,8.6,117,6
+South,Chennai,24456870.0,1940538.0,7.9,120,7
+West,Ahmedabad,22591233.0,2041199.0,9.0,110,8
+East,Kolkata,22392672.0,1882516.0,8.4,110,9
+North,Jaipur,13662722.0,1271415.0,9.3,71,10

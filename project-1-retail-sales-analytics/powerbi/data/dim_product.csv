@@ -1,0 +1,61 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+P0001,Phones Model 1,Technology,Phones,10648.0,13669.0
+P0002,Phones Model 2,Technology,Phones,13853.0,18279.0
+P0003,Phones Model 3,Technology,Phones,14648.0,18454.0
+P0004,Phones Model 4,Technology,Phones,12710.0,15897.0
+P0005,Phones Model 5,Technology,Phones,19663.0,24291.0
+P0006,Laptops Model 1,Technology,Laptops,66571.0,76545.0
+P0007,Laptops Model 2,Technology,Laptops,36626.0,41903.0
+P0008,Laptops Model 3,Technology,Laptops,34382.0,40749.0
+P0009,Laptops Model 4,Technology,Laptops,50612.0,58233.0
+P0010,Laptops Model 5,Technology,Laptops,54562.0,63989.0
+P0011,Accessories Model 1,Technology,Accessories,1193.0,2037.0
+P0012,Accessories Model 2,Technology,Accessories,1069.0,1765.0
+P0013,Accessories Model 3,Technology,Accessories,1226.0,1882.0
+P0014,Accessories Model 4,Technology,Accessories,1269.0,1790.0
+P0015,Accessories Model 5,Technology,Accessories,1081.0,1846.0
+P0016,Printers Model 1,Technology,Printers,5439.0,6835.0
+P0017,Printers Model 2,Technology,Printers,10226.0,12178.0
+P0018,Printers Model 3,Technology,Printers,7581.0,9606.0
+P0019,Printers Model 4,Technology,Printers,10457.0,12349.0
+P0020,Printers Model 5,Technology,Printers,6848.0,8499.0
+P0021,Chairs Model 1,Furniture,Chairs,4524.0,5558.0
+P0022,Chairs Model 2,Furniture,Chairs,3854.0,4656.0
+P0023,Chairs Model 3,Furniture,Chairs,5600.0,7109.0
+P0024,Chairs Model 4,Furniture,Chairs,5835.0,7503.0
+P0025,Chairs Model 5,Furniture,Chairs,5269.0,6440.0
+P0026,Tables Model 1,Furniture,Tables,7326.0,8531.0
+P0027,Tables Model 2,Furniture,Tables,9487.0,11024.0
+P0028,Tables Model 3,Furniture,Tables,7386.0,8569.0
+P0029,Tables Model 4,Furniture,Tables,11640.0,13995.0
+P0030,Tables Model 5,Furniture,Tables,13348.0,16260.0
+P0031,Bookcases Model 1,Furniture,Bookcases,7878.0,8779.0
+P0032,Bookcases Model 2,Furniture,Bookcases,7892.0,8759.0
+P0033,Bookcases Model 3,Furniture,Bookcases,7094.0,8013.0
+P0034,Bookcases Model 4,Furniture,Bookcases,7121.0,7996.0
+P0035,Bookcases Model 5,Furniture,Bookcases,8154.0,9441.0
+P0036,Storage Model 1,Furniture,Storage,3331.0,4333.0
+P0037,Storage Model 2,Furniture,Storage,3095.0,3769.0
+P0038,Storage Model 3,Furniture,Storage,3276.0,4221.0
+P0039,Storage Model 4,Furniture,Storage,2475.0,3113.0
+P0040,Storage Model 5,Furniture,Storage,3647.0,4742.0
+P0041,Paper Model 1,Office Supplies,Paper,283.0,413.0
+P0042,Paper Model 2,Office Supplies,Paper,279.0,396.0
+P0043,Paper Model 3,Office Supplies,Paper,255.0,361.0
+P0044,Paper Model 4,Office Supplies,Paper,356.0,472.0
+P0045,Paper Model 5,Office Supplies,Paper,365.0,503.0
+P0046,Binders Model 1,Office Supplies,Binders,176.0,294.0
+P0047,Binders Model 2,Office Supplies,Binders,174.0,289.0
+P0048,Binders Model 3,Office Supplies,Binders,212.0,343.0
+P0049,Binders Model 4,Office Supplies,Binders,178.0,303.0
+P0050,Binders Model 5,Office Supplies,Binders,141.0,216.0
+P0051,Art Model 1,Office Supplies,Art,209.0,299.0
+P0052,Art Model 2,Office Supplies,Art,196.0,287.0
+P0053,Art Model 3,Office Supplies,Art,238.0,337.0
+P0054,Art Model 4,Office Supplies,Art,257.0,379.0
+P0055,Art Model 5,Office Supplies,Art,260.0,358.0
+P0056,Appliances Model 1,Office Supplies,Appliances,3691.0,4630.0
+P0057,Appliances Model 2,Office Supplies,Appliances,4042.0,5279.0
+P0058,Appliances Model 3,Office Supplies,Appliances,4713.0,6140.0
+P0059,Appliances Model 4,Office Supplies,Appliances,3814.0,4926.0
+P0060,Appliances Model 5,Office Supplies,Appliances,3844.0,5103.0
